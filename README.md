@@ -23,7 +23,6 @@
   <div style="display: inline_block">
     <h2>Estudando no momento</h2> 
     <img align="center" alt="Marlliton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    
-    
+    <img align="center" alt="Marlliton-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
     <img align="center" alt="Marlliton-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
   </div>
