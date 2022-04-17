@@ -1,6 +1,6 @@
 ## Quem sou eu?
 Olá, eu sou o Marlliton. Estudante de Análise e Desenvolvimento de Sistemas na instituição de ensino Estácio de Sá, sou estagiário na [Cod3r](https://www.cod3r.com.br/)  e procuro me superar a cada dia.
-## Tecnologias que mais uso atualmente
+## Tecnologias que estou usando atualmente
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -23,8 +23,10 @@ Olá, eu sou o Marlliton. Estudante de Análise e Desenvolvimento de Sistemas na
  ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  
  ## Conecte-se comigo
- 
+ [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlliton/)
 
 ## Status geral
  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Marlliton&show_icons=true&hide=contribs,issues&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
+## Artigos
+Eu escrevo alguns artigos no [*blog da Cod3r*](https://blog.cod3r.com.br/author/marlliton-dias/) que valem a pena serem lidos.
