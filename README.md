@@ -21,10 +21,10 @@ Olá, eu sou o Marlliton. Estudante de Análise e Desenvolvimento de Sistemas na
  ![SHE SCRIPT]( 	https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
  ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
  ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ 
+ ## Conecte-se comigo
+ 
 
 ## Status geral
-<div align="center">
-  <a href="https://github.com/Marlliton">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Marlliton&show_icons=true&hide=contribs,issues&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlliton&layout=compact&langs_count=5&theme=tokyonight"/>
-</div>
+ <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Marlliton&show_icons=true&hide=contribs,issues&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
