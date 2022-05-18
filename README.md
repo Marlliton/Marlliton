@@ -26,7 +26,6 @@ Olá, eu sou o Marlliton. Estudante de Análise e Desenvolvimento de Sistemas na
  [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlliton/)
 
 ## Status geral
-
  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Marlliton&show_icons=true&hide=contribs,issues&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 ## Artigos
