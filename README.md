@@ -32,5 +32,5 @@ Sou Estudante de Análise e Desenvolvimento de Sistemas na instituição de ensi
 
 
 ## Artigos
-Eu escrevo alguns artigos no [*blog da Cod3r*](https://blog.cod3r.com.br/author/marlliton-dias/) que valem a pena serem lidos.
+Eu escrevo alguns artigos no [*blog da Formação Dev*](https://blog.formacao.dev/) que valem a pena serem lidos.
  
