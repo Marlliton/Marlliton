@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/67978032/171757505-6a2bf896-affd-415b-b060-bed1cdf1ce8f.png)
 
-Sou Estudante de Análise e Desenvolvimento de Sistemas na instituição de ensino Estácio de Sá, sou estagiário na [Cod3r](https://www.cod3r.com.br/)  e procuro me superar a cada dia.
+Sou formado em Análise e Desenvolvimento de Sistemas na instituição de ensino Estácio de Sá, sou estagiário na [Cod3r](https://www.cod3r.com.br/)  e procuro me superar a cada dia.
 ## Tecnologias que estou usando atualmente
 ![GOLANG](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
